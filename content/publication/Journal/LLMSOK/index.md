@@ -6,7 +6,7 @@ authors:
   - Jinhao Duan
   - Kaidi Xu
   - Yuanfang Cai
-  - Eric(Zhibo) Sun
+  - EricSun
   - Yue Zhang
 date: '2024-01-04T00:00:00Z'
 doi: ''

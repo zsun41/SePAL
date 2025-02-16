@@ -7,14 +7,18 @@ type: landing
 sections:
   - block: people
     content:
-      title: Meet the Team
+      title: The SePAL Team
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
+          - Faculty
+          - PhD Students
+          - Master Students
+          - Undergraduate Students
           - Principal Investigators
           - Researchers
           - Grad Students
-          - Administration
+          - Internship Students
           - Visitors
           - Alumni
       sort_by: Params.last_name

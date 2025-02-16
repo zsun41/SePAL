@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Welcome to Drexel
+        content: Drexel University, located in Philadelphia, Pennsylvania, is renowned for its strong emphasis on experiential learning and cutting-edge research programs (R1). 
         align: center
         background:
           image:
@@ -18,18 +18,18 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Department of Computer Science 
+        content: Our CS department programs are recognized by employers as some of the best in the region and across the country, and many of our students have been recruited by Microsoft, Amazon, Google, and other nationally and internationally prestigious companies.
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: csdpart.png
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Security and Privacy Analytics Lab (SePAL)
+        content: A "sepal" is a leaf-like structure that shields and supports flower petals. Our security lab, "SePAL," links this protection to information privacy and security.
         align: right
         background:
           image:

@@ -35,8 +35,8 @@ featured: true
 
 links:
   - name: Cite
-    url: 
-url_pdf: 
+    url: https://zhibosun.com/assets/publication/usenix/adultapps_bib.txt
+url_pdf: https://zhibosun.com/assets/publication/usenix/adultapps.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

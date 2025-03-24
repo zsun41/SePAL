@@ -10,8 +10,8 @@ sections:
       title: Contact
       # text: |-
       #   Multiple fully-funded CS Ph.D. positions are available in our group at Drexel University in the area of Computer Security and Privacy with an emphasis on the human factors. Some of the research focuses on e-crime, threat intelligence, underground economies, Internet fraud, program analysis, IoT security, mobile security and web security.
-      email: zs384@drexel.edu, yz899@drexel.edu
-      phone: 215-895-6237
+      email: zs384@drexel.edu
+      # phone: 215-895-6237
       address:
         street: 3675 Market Street
         city: philadelphia
@@ -23,7 +23,7 @@ sections:
  
         latitude: '39.9540224'
         longitude: '-75.1861760'
-      directions: Office 1138/1152
+      directions: Office 1138
       # office_hours:
       #   - 'Monday 10:00 to 14:00'
       #   - 'Wednesday 09:00 to 10:00'

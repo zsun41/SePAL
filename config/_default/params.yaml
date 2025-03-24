@@ -21,9 +21,9 @@ marketing:
     description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
     twitter: 'wowchemy'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-0LEJ51P84W'
     baidu_tongji: ''
-    google_tag_manager: ''
+    google_tag_manager: 'G-0LEJ51P84W'
     microsoft_clarity: ''
   verification:
     google: ''
